@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1556193801 source:c:\projets\new projet allegro v6\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
+1556209952 source:c:\users\perospero\desktop\lagll\new projet allegro v6\main.c
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	"usine.h"
+	"menu.h"
+	"jeu.h"
+
+1556207220 source:c:\users\perospero\desktop\lagll\new projet allegro v6\menu.c
+	"menu.h"
+
+1556207246 c:\users\perospero\desktop\lagll\new projet allegro v6\menu.h
+	<allegro.h>
+
+1556209300 source:c:\users\perospero\desktop\lagll\new projet allegro v6\usine.c
+	"usine.h"
+	<stdio.h>
+
+1556209306 c:\users\perospero\desktop\lagll\new projet allegro v6\usine.h
+	<allegro.h>
+
+1556209434 source:c:\users\perospero\desktop\lagll\new projet allegro v6\afficheur.c
+	"afficheur.h"
+	<allegro.h>
+
+1556209394 c:\users\perospero\desktop\lagll\new projet allegro v6\afficheur.h
+	"usine.h"
+
+1556208616 source:c:\users\perospero\desktop\lagll\new projet allegro v6\option.c
+	"option.h"
+
+1556208676 c:\users\perospero\desktop\lagll\new projet allegro v6\option.h
+	"usine.h"
+
+1556208884 source:c:\users\perospero\desktop\lagll\new projet allegro v6\acteur.c
+	"acteur.h"
+
+1556208946 c:\users\perospero\desktop\lagll\new projet allegro v6\acteur.h
+	"usine.h"
+
+1556209243 source:c:\users\perospero\desktop\lagll\new projet allegro v6\ennemie.c
+	"ennemie.h"
+
+1556209324 c:\users\perospero\desktop\lagll\new projet allegro v6\ennemie.h
+	"usine.h"
+
+1556209811 source:c:\users\perospero\desktop\lagll\new projet allegro v6\jeu.c
+	"jeu.h"
+
+1556209798 c:\users\perospero\desktop\lagll\new projet allegro v6\jeu.h
+	"usine.h"
+
